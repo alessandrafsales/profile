@@ -1,2 +1,3 @@
-# profile
-Redes Sociais.
+Olá! ✨
+
+Realizei esse projeto desafio da "FrontEnd Mentor" para praticar meus conhecimentos.
